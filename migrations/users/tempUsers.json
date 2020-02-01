@@ -1,0 +1,14 @@
+[
+    {
+        "login": "test",
+        "password": "123456",
+        "regDate": "",
+        "rate": 0
+    },
+    {
+        "login": "test2",
+        "password": "123456",
+        "regDate": "",
+        "rate": 0
+    }
+]
